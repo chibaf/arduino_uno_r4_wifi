@@ -1,7 +1,7 @@
 #include <WiFiS3.h>
 
 // ----------- WiFi 設定 -----------------
-const char* ssid     = "AirPort_5GHz";
+const char* ssid     = "AirPort";
 const char* password = "e1008e1008";
 
 int status = WL_IDLE_STATUS;
